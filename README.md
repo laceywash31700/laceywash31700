@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**laceywash31700/laceywash31700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![my header](./gitHub%20Banner.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
