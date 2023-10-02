@@ -114,7 +114,7 @@ MongoDB, PostgreSQL
    
 </td>
     <td width="50%" align="right">
-      <img src="./img/BaldursGate3-review_featuredanim.gif" height="175">
+      <img src="./img/BaldursGate3-review_featuredanim.gif" height="185">
     </td>
   </tr>
 </table>
