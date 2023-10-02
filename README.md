@@ -1,16 +1,16 @@
 ![my header](./img/gitHub%20Banner.png)
 
- <p style="text-align:center;">🏳️‍🌈 Pronouns: He/Him </p> 
+ <p align="center">🏳️‍🌈 Pronouns: He/Him </p> 
 
- <p style="text-align:center;">
+ <p align="center">
  <a href="https://www.linkedin.com/in/laceywashington/" target='_blank' rel='noopeerner noreferrer'><img height='38' src="./img/icons8-linkedin-48.png"></a>&nbsp;&nbsp;
-<a href="mailto:lacey.m.washinton@gmail.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./img/icons8-gmail-48.png"></a>&nbsp;&nbsp;
+<a href="mailto:lacey.m.washington@gmail.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./img/icons8-gmail-48.png"></a>&nbsp;&nbsp;
  </p>
 
 ---------------------
 
 
-<p style="text-align:center;">👨🏿‍💻 My Tech Journey</p>
+<p align="center">👨🏿‍💻 My Tech Journey</p>
 
 
  This coding journey of mine began out of necessity – to support my sick mother and escape poverty. Fueled by determination, I embraced coding through an intensive software development program thanks to a full-ride scholarship. Mastering algorithms and creative problem-solving became my passion and to be honest really fun and frustrating. 
@@ -22,7 +22,7 @@
 
 ---------------------
 
-<p style="text-align:center;">🛠️ Technologies and Tools</p>
+<p align="center">🛠️ Technologies and Tools</p>
 
 #### Languages
 
@@ -49,7 +49,7 @@ AWS, Render, Netlify
 MongoDB, PostgreSQL
 
 ---------------------
-<p style="text-align:center;">⚡ Professional Competencies</p>
+<p align="center">⚡ Professional Competencies</p>
 
 - **A Growth Mindset:**
     - Ability to deal with ambiguous situations and solve problems with agility
@@ -72,7 +72,7 @@ MongoDB, PostgreSQL
     - Holding yourself and others accountable
 
 ---------------------
-<p style="text-align:center;">🌱 I’m Teaching Myself</p>
+<p align="center">🌱 I’m Teaching Myself</p>
 
  <p style="text-align:center;">
  <img height="35" src="./img/icons8-c-48.png">
@@ -82,7 +82,7 @@ MongoDB, PostgreSQL
 
 
 ---------------------
- <p style="text-align:center;">🍥 My Favorite Top 5 Anime</p>
+ <p align="center">🍥 My Favorite Top 5 Anime</p>
 
  <table align="center">
   <tr>
@@ -101,7 +101,7 @@ MongoDB, PostgreSQL
 </table>
 
 ---------------------
-<p style="text-align:center;">🎮 Currently Gaming</p>
+<p align="center">🎮 Currently Gaming</p>
 
 <table align="center">
   <tr>
@@ -120,7 +120,7 @@ MongoDB, PostgreSQL
 </table>
 
 ---------------------
-<p style="text-align:center;">✌🏾 Hobbies and Fun Facts</p>
+<p align="center">✌🏾 Hobbies and Fun Facts</p>
 
 - My cats legal name is "Syer Frisky of Wabash, Duke of Wellington, Slayer of Kings and, Harbinger of Our Dark Lord Cthulhu (long may he reign)" 
   - (but I just call him Syer)
@@ -149,5 +149,20 @@ MongoDB, PostgreSQL
 - I want to one day finish my bachelors and go to graduate school in computer science.
 
 - I like turtles 
+
+---------------------
+
+<h3 align="center">Don't forget to check out my resume!</h3>
+
+<p align="center">
+<a href="img/icons8-resume-60.png" target="_blank" rel="noopener noreferrer"><img height="50" src="./img/icons8-resume-60.png"></a>&nbsp;&nbsp;
+<p>
+
+
+<p align="center">
+<img src="https://gifdb.com/images/thumbnail/black-guy-pointing-fingers-thank-you-so-much-tkq8cz4g4mzbr82v.gif" height="175">
+</p>
+
+
 
 
