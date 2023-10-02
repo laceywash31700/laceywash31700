@@ -30,23 +30,23 @@
 
 JavaScript, TypeScript, SQL, CSS, HTML, Markdown
 
-####  Frameworks: 
+####  Frameworks 
 
 React, Bootstrap, Loopback, Node.js, Express
 
-#### Tools: 
+#### Tools
 
 Visual Studio Code, Powershell, Git, CLI, GitHub, VS Code
 
-#### Operating Systems: 
+#### Operating Systems
 
 Windows OS, Windows Server, Ubuntu OS, Ubuntu Server
 
-#### Platforms: 
+#### Platforms
 
 AWS, Render, Netlify
 
-#### Databases: 
+#### Databases
 
 MongoDB, PostgreSQL
 
@@ -76,7 +76,7 @@ MongoDB, PostgreSQL
 ---------------------
 <h3 align="center">🌱 I’m Teaching Myself</h3>
 
- <p style="text-align:center;">
+ <p align="center">
  <img height="35" src="./img/icons8-c-48.png">
  <img height="35" src="./img/icons8-c-64.png">
  <img height="35" src="./img/icons8-python-48.png">
