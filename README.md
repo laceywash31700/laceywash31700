@@ -1,6 +1,8 @@
 ![my header](./img/gitHub%20Banner.png)
 
- <p align="center">🏳️‍🌈 Pronouns: He/Him </p> 
+<h2 align="center">Hello Future Team!</h2>
+
+ <p align="center">🏳️‍🌈 My Pronouns: He/Him </p> 
 
  <p align="center">
  <a href="https://www.linkedin.com/in/laceywashington/" target='_blank' rel='noopeerner noreferrer'><img height='38' src="./img/icons8-linkedin-48.png"></a>&nbsp;&nbsp;
@@ -13,7 +15,7 @@
 <h3 align="center">👨🏿‍💻 My Tech Journey</h3>
 
 
- This coding journey of mine began out of necessity – to support my sick mother and escape poverty. Fueled by determination, I embraced coding through an intensive software development program thanks to a full-ride scholarship. Mastering algorithms and creative problem-solving became my passion and to be honest really fun and frustrating. 
+ This software development journey of mine began out of necessity – to support my sick mother and escape poverty. Fueled by determination, I embraced coding through an intensive software development program thanks to a full-ride scholarship. Mastering algorithms and creative problem-solving became my passion and to be honest really fun and frustrating. 
  
  My background as a pharmacy tech instilled customer service expertise and empathy for others, enhancing my software development skills. My mother's health challenges inspired my resilience and adaptability, driving me to leverage technology for a better life for all no matter the ability. I Learned am a dedicated problem solver, eager to contribute my unique perspective and skills. currently I'm enrolled in [Code Fellows](https://www.codefellows.org/), scheduled to graduate December,14,2023 and I can't wait to use my skills to help change the world using tech. 
  
