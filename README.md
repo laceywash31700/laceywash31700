@@ -10,7 +10,7 @@
 ---------------------
 
 
-<p align="center">👨🏿‍💻 My Tech Journey</p>
+<h3 align="center">👨🏿‍💻 My Tech Journey</h3>
 
 
  This coding journey of mine began out of necessity – to support my sick mother and escape poverty. Fueled by determination, I embraced coding through an intensive software development program thanks to a full-ride scholarship. Mastering algorithms and creative problem-solving became my passion and to be honest really fun and frustrating. 
@@ -22,7 +22,7 @@
 
 ---------------------
 
-<p align="center">🛠️ Technologies and Tools</p>
+<h3 align="center">🛠️ Technologies and Tools</h3>
 
 #### Languages
 
@@ -49,7 +49,7 @@ AWS, Render, Netlify
 MongoDB, PostgreSQL
 
 ---------------------
-<p align="center">⚡ Professional Competencies</p>
+ <h3 align="center">⚡ Professional Competencies</h3>
 
 - **A Growth Mindset:**
     - Ability to deal with ambiguous situations and solve problems with agility
@@ -72,7 +72,7 @@ MongoDB, PostgreSQL
     - Holding yourself and others accountable
 
 ---------------------
-<p align="center">🌱 I’m Teaching Myself</p>
+<h3 align="center">🌱 I’m Teaching Myself</h3>
 
  <p style="text-align:center;">
  <img height="35" src="./img/icons8-c-48.png">
@@ -82,7 +82,7 @@ MongoDB, PostgreSQL
 
 
 ---------------------
- <p align="center">🍥 My Favorite Top 5 Anime</p>
+ <h3 align="center">🍥 My Favorite Top 5 Anime</h3>
 
  <table align="center">
   <tr>
@@ -101,7 +101,7 @@ MongoDB, PostgreSQL
 </table>
 
 ---------------------
-<p align="center">🎮 Currently Gaming</p>
+<h3 align="center">🎮 Currently Gaming</h3>
 
 <table align="center">
   <tr>
@@ -120,7 +120,7 @@ MongoDB, PostgreSQL
 </table>
 
 ---------------------
-<p align="center">✌🏾 Hobbies and Fun Facts</p>
+<h3 align="center">✌🏾 Hobbies and Fun Facts</h3>
 
 - My cats legal name is "Syer Frisky of Wabash, Duke of Wellington, Slayer of Kings and, Harbinger of Our Dark Lord Cthulhu (long may he reign)" 
   - (but I just call him Syer)
