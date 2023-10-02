@@ -146,6 +146,8 @@ MongoDB, PostgreSQL
 - I'm proud God dad to the cutest 5 year old world.
     - call me biased
 
+- I recently took up drawing and I'm learning still lives 
+
 - I want to one day finish my bachelors and go to graduate school in computer science.
 
 - I like turtles 
