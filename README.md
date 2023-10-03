@@ -118,12 +118,14 @@ MongoDB, PostgreSQL
     
    
 </td>
-<img src="./img/5414-fuecocoomg.png"height="65">
     <td width="50%" align="right">
       <img src="./img/BaldursGate3-review_featuredanim.gif" height="185">
     </td>
   </tr>
 </table>
+<p align="center">
+<img src="./img/5414-fuecocoomg.png"height="65">
+</p>
 
 ---------------------
 <h3 align="center">✌🏾 Hobbies and Fun Facts</h3>
