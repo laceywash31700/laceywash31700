@@ -113,10 +113,14 @@ MongoDB, PostgreSQL
 - [Braverly Default 2](https://www.nintendo.com/store/products/bravely-default-ii-switch/)
 - [The Sims 4](https://www.ea.com/games/the-sims/the-sims-4)
 - [Pokémon Violet](https://scarletviolet.pokemon.com/en-us/)
+
+    - #TeamFuecoco
+    
    
 </td>
     <td width="50%" align="right">
       <img src="./img/BaldursGate3-review_featuredanim.gif" height="185">
+<img src="./img/5414-fuecocoomg.png"height="65">
     </td>
   </tr>
 </table>
