@@ -165,7 +165,7 @@ MongoDB, PostgreSQL
 <h3 align="center">Don't forget to check out my resume!</h3>
 
 <p align="center">
-<a href="./img/1696287255772-c65b876f-7476-46f7-99a8-7f877b27e7b0_1.jpg" target="_blank" rel="noopener noreferrer"><img height="50" src="./img/icons8-resume-60.png"></a>&nbsp;&nbsp;
+<a href="./img/LaceyWResume.jpg" target="_blank" rel="noopener noreferrer"><img height="50" src="./img/icons8-resume-60.png"></a>&nbsp;&nbsp;
 <p>
 
 
