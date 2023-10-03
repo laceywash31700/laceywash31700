@@ -125,16 +125,16 @@ MongoDB, PostgreSQL
 <h3 align="center">✌🏾 Hobbies and Fun Facts</h3>
 
 - My cats legal name is "Syer Frisky of Wabash, Duke of Wellington, Slayer of Kings and, Harbinger of Our Dark Lord Cthulhu (long may he reign)" 
-  - (but I just call him Syer)
+  - (But, I just call him Syer 🤣)
 
 - I'm very musical 
   - I play alto saxaphone and baritone saxaphone
   - I can sing (or rather hold a pretty good note) 
   - I'm teaching myself to play piano and harmonica
 
-- Huge Dungeons and Dragons nerd.
+- I'm a Huge Dungeons and Dragons nerd.
 
-- I am a proud queer black man living with HIV
+- I'm a proud queer black man living with HIV
 
 - I'm neurodivergent and on the spectrum
 
