@@ -138,7 +138,7 @@ MongoDB, PostgreSQL
   - I can sing (or rather hold a pretty good note) 
   - I'm teaching myself to play piano and harmonica
 
-- I'm a Huge Dungeons and Dragons nerd.
+- I'm a huge "Dungeons & Dragons" Nerd.
 
 - I'm a proud queer black man living with HIV
 
@@ -149,16 +149,16 @@ MongoDB, PostgreSQL
 
 - One day I will to work at Microsoft or Google.
 
-- I want to get into gardening
+- I want to get into gardening.
 
 - I'm proud God dad to the cutest 5 year old world.
     - call me biased
 
-- I recently took up drawing and I'm learning still lives 
+- I recently took up drawing and I'm learning still lives.
 
 - I want to one day finish my bachelors and go to graduate school in computer science.
 
-- I like turtles 
+- And I like turtles. 
 
 ---------------------
 
